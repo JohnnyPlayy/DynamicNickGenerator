@@ -151,8 +151,7 @@ Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ## 📬 Contato
 
-Criado e mantido por [JohnnyPlayy](https://github.com/JohnnyPlayy).  
-📧 Para dúvidas ou sugestões, entre em contato pelo nosso servidor do Discord:  
+Criado por [JohnnyPlayy](https://github.com/JohnnyPlayy).   
 [![Discord](https://img.shields.io/discord/YSy4deHbfk?label=Discord&logo=discord&style=flat-square)](https://discord.gg/YSy4deHbfk)
 
 ---
