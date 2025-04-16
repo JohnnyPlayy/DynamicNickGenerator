@@ -7,19 +7,26 @@ Seja para jogos, redes sociais ou aplicações criativas, esta biblioteca é per
 
 ## 🌟 Funcionalidades Principais
 
-- **📌 Gêneros Suportados**:  
-  `Masculino`, `Feminino` e `Unissex`.
-- **🌍 Idiomas**:  
-  Suporte para múltiplos idiomas configurados através de `LanguageType.Language`.
-- **🔡 Opções de Formatação (Case)**:  
-  - 🟢 **UPPERCASE**: Todo o nome em maiúsculas.  
-  - 🔵 **LOWERCASE**: Todo o nome em minúsculas.  
-  - 🟠 **DEFAULT**: Primeira letra maiúscula, resto minúsculo.  
-  - 🎲 **RANDOM**: Letras alternadas aleatoriamente entre maiúsculas e minúsculas.
-- **🛠️ Caracteres Customizados**:  
-  Adicione manualmente caracteres personalizados entre o prefixo e o sufixo.
-- **🧩 Extensível**:  
-  Facilidade para adicionar novos prefixos e sufixos com `GenderPrefixes` e `GenderSuffixes`.
+### 📌 **Gêneros Suportados**
+- `Masculino`
+- `Feminino`
+- `Unissex`
+
+### 🌍 **Idiomas**
+- Suporte para múltiplos idiomas configurados através de `LanguageType.Language`.
+
+### 🔡 **Opções de Formatação (Case)**
+- 🟢 **UPPERCASE**: Todo o nome em maiúsculas.
+- 🔵 **LOWERCASE**: Todo o nome em minúsculas.
+- 🟠 **DEFAULT**: Primeira letra maiúscula, resto minúsculo.
+- 🎲 **RANDOM**: Letras alternadas aleatoriamente entre maiúsculas e minúsculas.
+
+### 🛠️ **Caracteres Customizados**
+- Adicione manualmente caracteres personalizados entre o prefixo e o sufixo.
+
+### 🧩 **Extensível**
+- Facilidade para adicionar novos prefixos e sufixos com `GenderPrefixes` e `GenderSuffixes`.
+
 
 ---
 
@@ -27,7 +34,7 @@ Seja para jogos, redes sociais ou aplicações criativas, esta biblioteca é per
 
 Se você deseja integrar ou visualizar o DynamicNickGenerator com uma interface gráfica, aqui está um exemplo de como pode ser implementado:
 
-![Interface Gráfica](https://i.imgur.com/dAiecZ8.png)
+![Interface Gráfica](https://i.imgur.com/L5jOUTf.png)
 
 ### Recursos da Interface:
 - **Idioma**: Escolha o idioma para os nomes gerados.
@@ -105,6 +112,25 @@ Nome Gerado: ALEXYX
 
 ---
 
+## 🛠️ Avaliação de Código
+
+Se você deseja garantir que o código siga as melhores práticas, você pode utilizar ferramentas de análise de código estático, como Checkstyle, PMD ou SpotBugs, para revisar o código do projeto.  
+Além disso, siga as diretrizes abaixo para contribuir:
+
+1. **Manutenção do Código**:
+   - Certifique-se de que os métodos sejam curtos e realizem apenas uma tarefa.
+   - Utilize nomes descritivos para variáveis e métodos.
+
+2. **Cobertura de Testes**:
+   - Adicione testes unitários para qualquer alteração feita.
+   - Garanta cobertura de testes para novos casos de uso.
+
+3. **Boas Práticas**:
+   - Siga o padrão de codificação da comunidade Java, como o guia de estilo do Google.
+   - Evite códigos duplicados e otimize loops e operações.
+
+---
+
 ## 🚀 Instalação
 
 1. **Clone o Repositório**:  
@@ -151,7 +177,6 @@ Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ## 📬 Contato
 
-Criado por [JohnnyPlayy](https://github.com/JohnnyPlayy).   
-[![Discord](https://img.shields.io/discord/YSy4deHbfk?label=Discord&logo=discord&style=flat-square)](https://discord.gg/YSy4deHbfk)
+[![](https://dcbadge.limes.pink/api/server/YSy4deHbfk)](https://discord.gg/YSy4deHbfk)
 
 ---
